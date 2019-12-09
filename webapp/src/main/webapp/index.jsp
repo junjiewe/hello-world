@@ -1,3 +1,3 @@
 <h1> Hello, Welcome to Jaji!!! </h1>
 
-Jibason!!
+<h2>Jibason!!</h2>
